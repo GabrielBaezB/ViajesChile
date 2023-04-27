@@ -1,3 +1,11 @@
 body{
     background:black;
 }
+
+i{
+    font-size: 24px;
+}
+
+.txt-footer{
+    font-size: 32px;
+}
